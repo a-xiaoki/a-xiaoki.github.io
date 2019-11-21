@@ -979,6 +979,36 @@ setInterval("createtime()",250);
 
 
   
+    
+
+<script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+
+
+<script src="//cdn.jsdelivr.net/npm/js-md5@0.7.3/src/md5.min.js"></script>
+
+<script>
+  var gitalk = new Gitalk({
+    clientID: 'e2b0e061efe425f82183',
+    clientSecret: 'ab7156d29241a8b60c4e151c00e42919fdffce22',
+    repo: 'adyanSunny.github.io',
+    owner: 'adyan',
+    admin: ['Adyan'],
+    id: md5(location.pathname),
+    
+      language: window.navigator.language || window.navigator.userLanguage,
+    
+    distractionFreeMode: 'true'
+  });
+  gitalk.render('gitalk-container');
+</script>
+
+
+  
 
 
   
