@@ -5,9 +5,9 @@
   <subtitle>收起羡慕别人的目光自己去努力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://%E5%B0%8FKi.cn/"/>
+  <link href="https://adyan.cn/"/>
   <updated>2020-09-27T14:18:30.912Z</updated>
-  <id>https://小Ki.cn/</id>
+  <id>https://adyan.cn/</id>
   
   <author>
     <name>小Ki</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>java上传视频并且截取当前视频第一帧</title>
-    <link href="https://%E5%B0%8FKi.cn/2020/09/28/java%E4%B8%8A%E4%BC%A0%E8%A7%86%E9%A2%91%E5%B9%B6%E4%B8%94%E6%88%AA%E5%8F%96%E5%BD%93%E5%89%8D%E8%A7%86%E9%A2%91%E7%AC%AC%E4%B8%80%E5%B8%A7/"/>
-    <id>https://小Ki.cn/2020/09/28/java上传视频并且截取当前视频第一帧/</id>
+    <link href="https://adyan.cn/2020/09/28/java%E4%B8%8A%E4%BC%A0%E8%A7%86%E9%A2%91%E5%B9%B6%E4%B8%94%E6%88%AA%E5%8F%96%E5%BD%93%E5%89%8D%E8%A7%86%E9%A2%91%E7%AC%AC%E4%B8%80%E5%B8%A7/"/>
+    <id>https://adyan.cn/2020/09/28/java上传视频并且截取当前视频第一帧/</id>
     <published>2020-09-27T21:53:02.000Z</published>
     <updated>2020-09-27T14:18:30.912Z</updated>
     
@@ -36,17 +36,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://%E5%B0%8FKi.cn/categories/Java/"/>
+      <category term="Java" scheme="https://adyan.cn/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://%E5%B0%8FKi.cn/tags/Java/"/>
+      <category term="Java" scheme="https://adyan.cn/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://%E5%B0%8FKi.cn/2019/12/13/hello-world/"/>
-    <id>https://小Ki.cn/2019/12/13/hello-world/</id>
+    <link href="https://adyan.cn/2019/12/13/hello-world/"/>
+    <id>https://adyan.cn/2019/12/13/hello-world/</id>
     <published>2019-12-13T10:59:32.042Z</published>
     <updated>2019-11-20T05:32:59.847Z</updated>
     
