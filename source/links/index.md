@@ -14,7 +14,7 @@ date: 2019-05-26 08:03:27
   1. 先将本站的友链添加到您站点的醒目位置，信息如下（可按照贵站样式修改）
   > 名称：小Ki
   > 头像：http://images.adyan.xyz/1285323459.jpeg
-  > 主页：https://小Ki.cn/
+  > 主页：https://adyan.cn/
   > 说明：The ideal road is always prepared for those who are confident. 
 
   2. 然后按照以上格式在本页下方评论区留言，待博主为您添上友链（`推荐方式`）

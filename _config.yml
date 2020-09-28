@@ -13,7 +13,7 @@ timezone: UTC #时区
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://小Ki.cn/ # wugenqiang是我的账号，修改为自己的账号
+url: https://adyan.cn/ # wugenqiang是我的账号，修改为自己的账号
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

@@ -1121,7 +1121,7 @@ daovoice_app_id: 6f3d2f44 #我们注册获取的id
 mylinks:
   - nickname: 小Ki  #友链名称
     avatar: http://images.adyan.xyz/1285323459.jpeg      #友链头像
-    site: https://www.小Ki.cn  #友链地址
+    site: https://www.adyan.cn  #友链地址
     info: 收起羡慕别人的目光自己去努力。  #友链说明
 
 # Hide single post
